@@ -1,0 +1,19 @@
+input,textarea {
+	display: block;
+}
+nav ul {
+	list-style-type: none;
+}
+nav ul li {
+	float: left;
+	margin: 12px 5px;
+}
+form {
+	clear: both;
+}
+section {
+	clear: both;
+}
+input[type="checkbox"] {
+    display: inline-block;
+}
